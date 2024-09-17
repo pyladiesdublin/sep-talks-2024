@@ -7,7 +7,7 @@
 
   
 # 📢 Announcements
-Coming soon
+https://docs.google.com/presentation/d/1cNyQO4lVyygrthmMFZFNBp8TI4veViI-sbLajm4EGbk/pub?start=false&loop=false&delayms=3000
 
 # Talks
 ## TALK 1: Python for Geospatial by Safa Ridene
