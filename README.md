@@ -36,6 +36,9 @@ Highlights / agenda:
 - Creating dynamic workflows
 - Real-world examples and best practices
 
+### Slides 
+- https://github.com/pyladiesdublin/sep-talks-2024/blob/main/ThejasRaju/Dynamic%20Workflows%20with%20Airflow%20and%20Python.pdf
+  
 ### About Thejas Raju
 Thejas is a Software Engineer and brings with him 5 years of industry experience. He works on planet-scale data that presents unique and exciting opportunities. He thrives on tackling the challenges that often come with these opportunities and is passionate about building data platforms that drive enhanced experiences for Pinners.
 
@@ -53,7 +56,6 @@ Tips to test the solution when test cases are not provided
 Luca is a Python enthusiast, working at Pinterest.
 
 * https://ie.linkedin.com/in/lodil
-
 
 # Other activities
 * Working on own project
