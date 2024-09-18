@@ -52,6 +52,9 @@ Lessons learned from successful candidates and personal experience
 Useful snippets to save time, avoid bugs, and write readable python code
 Tips to test the solution when test cases are not provided
 
+### Slides
+* https://github.com/pyladiesdublin/sep-talks-2024/blob/main/LucaLodi/Python%20up%20your%20next%20interview.pdf
+  
 ### About Luca Lodi
 Luca is a Python enthusiast, working at Pinterest.
 
