@@ -21,6 +21,12 @@ Safa is a geospatial engineer with a strong academic background and extensive ex
 ## TALK 2: Behind the Scenes of DevRel & Community Programs How to Get Involved by Naoise Rush
 A quick 5-10 minute overview of all things DevRel and how YOU can get involved whether you are a total newbie to the world of technology or a seasoned pro!
 
+### Slides
+* https://github.com/pyladiesdublin/sep-talks-2024/blob/main/NaoiseRush/NaoiseRush.pdf
+
+### Extra
+* Elastic Dublin Meetup: ES|QL & SLOs Across the Globe: https://www.meetup.com/dublin-city-elasticsearch/events/302787396
+
 ### About Naoise Rush
 DevRel Programs @ Elastic.
 Originally from Belfast, Naoise has worked with technology companies in both Dublin and San Francisco!
