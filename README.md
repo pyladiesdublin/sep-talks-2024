@@ -16,6 +16,9 @@ https://docs.google.com/presentation/d/1cNyQO4lVyygrthmMFZFNBp8TI4veViI-sbLajm4E
 ## TALK 1: Python for Geospatial by Safa Ridene
 (20m) Join us for an engaging session where we delve into the power of Python for geospatial analysis. This talk will cover essential libraries such as Geopandas, Shapely, and Folium, demonstrating how Python can be used to manipulate, analyze, and visualize geospatial data. Whether you’re mapping environmental data, planning urban development, or simply curious about geospatial technologies, this session will equip you with the foundational skills to harness Python for your geospatial projects.
 
+### Slides, Notebook and resources
+* https://github.com/pyladiesdublin/sep-talks-2024/tree/main/SafaRidene
+* 
 ### About Safa Ridene
 Safa is a geospatial engineer with a strong academic background and extensive experience in delivering spatial data-based insights to clients across various countries. She has successfully led and contributed to numerous projects, applying her expertise to provide actionable solutions in diverse geographic contexts. Safa is highly skilled in geospatial Python programming along with database management.
 
