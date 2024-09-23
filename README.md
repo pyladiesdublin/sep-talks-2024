@@ -18,7 +18,7 @@ https://docs.google.com/presentation/d/1cNyQO4lVyygrthmMFZFNBp8TI4veViI-sbLajm4E
 
 ### Slides, Notebook and resources
 * https://github.com/pyladiesdublin/sep-talks-2024/tree/main/SafaRidene
-* 
+
 ### About Safa Ridene
 Safa is a geospatial engineer with a strong academic background and extensive experience in delivering spatial data-based insights to clients across various countries. She has successfully led and contributed to numerous projects, applying her expertise to provide actionable solutions in diverse geographic contexts. Safa is highly skilled in geospatial Python programming along with database management.
 
