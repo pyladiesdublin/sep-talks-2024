@@ -9,6 +9,9 @@
 # 📢 Announcements
 https://docs.google.com/presentation/d/1cNyQO4lVyygrthmMFZFNBp8TI4veViI-sbLajm4EGbk/pub?start=false&loop=false&delayms=3000
 
+# 👏 Congrats to winner - e-book of Hybrid Cloud Infrastructure and Operations Explained By Mansura Habiba.
+* Haula
+
 # Talks
 ## TALK 1: Python for Geospatial by Safa Ridene
 (20m) Join us for an engaging session where we delve into the power of Python for geospatial analysis. This talk will cover essential libraries such as Geopandas, Shapely, and Folium, demonstrating how Python can be used to manipulate, analyze, and visualize geospatial data. Whether you’re mapping environmental data, planning urban development, or simply curious about geospatial technologies, this session will equip you with the foundational skills to harness Python for your geospatial projects.
